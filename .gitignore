@@ -1,6 +1,7 @@
 .DS_Store
 //WIP
-secure-email-service 
 Ricochet
 Checkpass
 Rolling_my_own
+
+__pycache__
